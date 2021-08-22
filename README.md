@@ -2,5 +2,6 @@
 
 [[Watch animation here]](https://youtu.be/4DNAFFFUfOI)
 
-![ScreenShot](vacc.PNG)
+
+<a href='https://youtu.be/4DNAFFFUfOI'> ![ScreenShot](vacc.PNG) </a>
 

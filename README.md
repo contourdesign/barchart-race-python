@@ -1,5 +1,6 @@
 # barchart-race-python
 
-[![Watch the video]('./vacc.PNG')](https://youtu.be/4DNAFFFUfOI)
+[![Watch the video]](https://youtu.be/4DNAFFFUfOI)
 
+<img src='./vacc.PNG', width=500 />
 

@@ -2,6 +2,8 @@
 
 [[View animation here]](https://youtu.be/4DNAFFFUfOI)
 
+Demonstrates Tableau's limited ability to animate long-term date barchart race
+
 
 <a href='https://youtu.be/4DNAFFFUfOI'> ![ScreenShot](vacc.PNG) </a>
 
